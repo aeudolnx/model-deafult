@@ -1,24 +1,23 @@
 # React + TypeScript + Vite
 
-Novo Projeto TypeScript com ESLint e Prettier
-Este repositório serve como um ponto de partida para novos projetos TypeScript, configurado com ESLint e Prettier para garantir consistência e boas práticas de codificação.
+# Projeto Base TypeScript com ESLint e Prettier
 
-Funcionalidades Incluídas:
-Configuração básica do TypeScript.
-Integração do ESLint para verificação estática e padronização de código.
-Integração do Prettier para formatação automática de código.
-Uso:
-Clone este repositório para começar um novo projeto.
-Instale as dependências utilizando npm ou yarn:
-bash
-Copiar código
-`npm install
+Este repositório é um ponto de partida configurado para novos projetos TypeScript, integrando ESLint e Prettier para garantir consistência e qualidade no código.
 
-# ou
+## Funcionalidades Incluídas
 
-yarn install
-`
-Comece a desenvolver seu projeto com TypeScript!
-Configurações Personalizadas:
-Customize as regras do ESLint no arquivo .eslintrc.json conforme necessário para atender aos requisitos específicos do seu projeto.
-Ajuste as configurações do Prettier no arquivo .prettierrc.json para refletir suas preferências de formatação.
+- Configuração inicial do TypeScript.
+- Integração do ESLint para verificação estática e aplicação de padrões de código.
+- Integração do Prettier para formatação automática de código.
+
+## Como Usar
+
+1. Clone este repositório:
+   ```bash
+   git clone <url-do-seu-repositorio>
+   cd nome-do-seu-repositorio
+
+   npm install
+    # ou
+   yarn install
+   ```
