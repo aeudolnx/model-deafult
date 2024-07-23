@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Sass
 
 # Projeto Base TypeScript com ESLint e Prettier
 
@@ -13,6 +13,7 @@ Este repositório é um ponto de partida configurado para novos projetos TypeScr
 ## Como Usar
 
 1. Clone este repositório:
+
    ```bash
    git clone <url-do-seu-repositorio>
    cd nome-do-seu-repositorio
