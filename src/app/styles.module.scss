@@ -1,0 +1,11 @@
+@import '../styles/variables.scss';
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: $color-secondary;
+  //font-family: 'Roboto', 'sans-serif';
+}
+
+.Container{}
