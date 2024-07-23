@@ -15,10 +15,20 @@ Este repositório é um ponto de partida configurado para novos projetos TypeScr
 1. Clone este repositório:
 
    ```bash
-   git clone <url-do-seu-repositorio>
+   git clone <url-do-seu-repositorio>  <nome-da-pasta>
    cd nome-do-seu-repositorio
+   rm -rf .git
 
    npm install
     # ou
    yarn install
+
+   git init
+   git remote add origin git@github.com:seu-usuario/novo-projeto.git
+   git add .
+   git commit -m "Commit inicial do novo projeto"
+
+   git push origin master
+
+
    ```
